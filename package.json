@@ -6,7 +6,8 @@
     "test": "echo \"Error: no test specified\" && exit 1 -e js,hbs",
     "start": " index.js",
     "dev": "nodemon src/app.js",
-    "watch": " nodemon js hbs ejs -e *"
+    "watch": " nodemon js hbs ejs -e *",
+    "start":"index.js"
   },
   "author": "",
   "license": "ISC",
