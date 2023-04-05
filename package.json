@@ -4,9 +4,9 @@
   "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1 -e js,hbs",
-    "start": "nodemon index.js",
-    "watch": " nodemon js hbs ejs -e *",
-    "dev": "nodemon index.js"
+    "start": " index.js",
+    "watch": " js hbs ejs -e *",
+    "dev": " index.js"
   },
   "author": "",
   "license": "ISC",
